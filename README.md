@@ -12,7 +12,7 @@ There are different ways to install Python on your machine. These approaches are
 
 ### Notes
 - You should consider that Python2.7 wont supported by 2020 anymore. So, it's highly recommended to use Python3.+ through [cs-internship](https://github.com/cs-internship/cs-internship-spec/tree/master/courses) Python course and in your future projects.
-- Using virtual environment through pure Python installation is very professional approach which you should consider that all the time. It very helpful to manage packages which is used in every projects.
+- Using virtual environment through pure Python installation is very professional approach which you should consider that all the time ([reasons](https://stackoverflow.com/questions/41972261/what-is-a-virtualenv-and-why-should-i-use-one)).
 
 ### Usage
 - **pure Python package**
