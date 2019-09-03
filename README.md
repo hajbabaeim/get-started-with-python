@@ -17,8 +17,8 @@ There are different ways to install Python on your machine. These approaches are
 ### Usage
 - **pure Python package**
     + Just open the command prompt and write: *python*
-    + Note: if you have Python2.7 beside Python3.+ on your machine, you should type *python3*
-    + Using virtual env is a little bit different and you should do some [steps](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+    + *Note:* if you have Python2.7 beside Python3.+ on your machine, you should type *python3*
+    + Using virtual env is a little bit different and you should do specific some [steps](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 
 ### CS-Internship Python students
 - It's recommended to use the pure Python installation method and using the virtual env is a plus!
