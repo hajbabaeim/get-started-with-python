@@ -26,4 +26,4 @@ There are different ways to install Python on your machine. These approaches are
 
 ### *To CS-Internship Python students*
 - It's recommended to use the pure Python installation method alongside VSCode editor. Using the virtual-environment is a plus!
-- If you don't know how to run your Python scripts [this](https://www.datacamp.com/community/tutorials/running-a-python-script) may help you.
+- If you don't know how to run your Python scripts, [this](https://www.datacamp.com/community/tutorials/running-a-python-script) may help you.
